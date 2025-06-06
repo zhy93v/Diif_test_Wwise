@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2677726827	Play_Test_Numbering01			\Default Work Unit\Play_Test_Numbering01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	376621573	Numbering_01	F:\UnrealEngine\UE_Projects\Wwise_Diff_TestMap\Wwise_Diff_TestMap_WwiseProject\.cache\E4\{E450E952-308C-8908-7AFC-E125C6AA29D0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\Test_Numbering01\Numbering_01		266648
+

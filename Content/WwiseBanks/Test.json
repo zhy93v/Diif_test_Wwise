@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3157003241",
+    "Type": "User",
+    "GUID": "{65746072-5402-4684-A20E-D4CDDFA202EC}",
+    "Language": "SFX",
+    "Hash": "{C44922C1-D6C1-7A00-DB71-85A2389035D4}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Test",
+    "ShortName": "Test",
+    "Path": "Test.bnk",
+    "Media": [
+     {
+      "Id": "376621573",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Sound_Test_Numbering_01.wav",
+      "CachePath": "E4/{E450E952-308C-8908-7AFC-E125C6AA29D0}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2677726827",
+      "Name": "Play_Test_Numbering01",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Test_Numbering01",
+      "GUID": "{472A2997-2166-4CF0-9E68-92E78D1E717A}",
+      "MaxAttenuation": "10000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.3882917",
+      "DurationMax": "1.3882917",
+      "MediaRefs": [
+       {
+        "Id": "376621573"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3CCBDCFD-3D90-697B-0DD1-B52C3F6DBD6C}"
+ }
+}
